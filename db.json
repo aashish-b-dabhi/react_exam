@@ -1,0 +1,32 @@
+{
+  "recipe": [
+    {
+      "id": "b2a1",
+      "image": "https://static.vecteezy.com/system/resources/previews/015/933/115/non_2x/chole-bhature-is-a-north-indian-food-dish-a-combination-of-chana-masala-and-bhatura-or-puri-free-photo.jpg",
+      "recipeName": "Chole bhature",
+      "price": "99",
+      "desc": "Chole bhature is a North Indian food dish. A combination of chana masala and bhatura or puri "
+    },
+    {
+      "id": "db8a",
+      "image": "https://www.foodandwine.com/thmb/_hz1-1jxHmNJxNLZxIjlOs2QQ3E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg",
+      "recipeName": "Burger",
+      "price": "129",
+      "desc": "a patty of ground beef grilled and placed between two halves of a bun"
+    },
+    {
+      "id": "6f1a",
+      "image": "https://deih43ym53wif.cloudfront.net/large_kaju-katli-barfi-shutterstock_128021255.jpg_dbe2910080.jpg",
+      "recipeName": "Kaju barfi",
+      "price": "699",
+      "desc": "Diwali, weddings, and other events have made Kaju Katli synonymous with joy"
+    },
+    {
+      "id": "42c2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBzyLuZvyStpvfWg0eGtG1BDn5zCzftBRNw&s",
+      "recipeName": "Mysore pak",
+      "price": "999",
+      "desc": "A rich dessert that originates from the state of Karnataka in South India"
+    }
+  ]
+}
